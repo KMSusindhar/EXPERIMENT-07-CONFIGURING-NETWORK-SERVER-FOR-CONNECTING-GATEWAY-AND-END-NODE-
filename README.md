@@ -53,10 +53,7 @@ To set APP Key
 ![Screenshot 2024-11-17 104432](https://github.com/user-attachments/assets/3394cda3-1270-4778-936c-acacdb327a36)
 
 
+## Results:
 
-
-
-## Results: 
-
-  The Network server and end device for traferring data on the network has been accomplished.
+ The Network server and end device for traferring data on the network has been accomplished.
 
