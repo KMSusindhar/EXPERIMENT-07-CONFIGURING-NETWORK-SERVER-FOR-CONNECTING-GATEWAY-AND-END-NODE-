@@ -49,8 +49,12 @@ To set APP Key
 ## OUTPUT 
 
 ![Screenshot 2024-11-17 103838](https://github.com/user-attachments/assets/caa71ef2-d43f-4923-a027-810e9ad70a94)
+
 ![Screenshot 2024-11-17 104235](https://github.com/user-attachments/assets/48ba75b0-2147-4d82-82bc-4755d666cc8b)
+
 ![Screenshot 2024-11-17 104432](https://github.com/user-attachments/assets/3394cda3-1270-4778-936c-acacdb327a36)
+
+
 
 
 ## Results:
